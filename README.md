@@ -4,10 +4,11 @@
 <!--     <img height="auto" width="auto" src="images/screenshot.png" /> -->
 <!-- </p> -->
 
+> [!NOTE]  
+> For educational purposes.
+
 ## Configuration for macOS 15 Sequoia
 
-> [!NOTE]  
-> For educational purposes
 
 > [!CAUTION]
 > I don't take any responsibility for you voilating the Apple ToS and/or damaging your device.
@@ -47,4 +48,4 @@ Hard-disk Pre Delay - Disabled
 
 ## Notes
 
-WiFi will be shown as Ethernet Interface. Joining networks requires [HeliPort](https://github.com/OpenIntelWireless/HeliPort).
+- WiFi will be shown as Ethernet Interface. Joining networks requires [HeliPort](https://github.com/OpenIntelWireless/HeliPort).
