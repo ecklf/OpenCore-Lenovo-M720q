@@ -6,7 +6,8 @@
 
 ## Configuration for macOS 15 Sequoia
 
-**For educational purposes**. I don't take any responsibility for you voilating the Apple ToS and/or damaging your device.
+**For educational purposes**
+I don't take any responsibility for you voilating the Apple ToS and/or damaging your device.
 
 ## Installation
 
